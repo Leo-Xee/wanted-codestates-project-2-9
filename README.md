@@ -1,7 +1,5 @@
 # 원티드 프리온보딩 프론트엔드 코스 - 발란
 
-#### 💡[배포 페이지 바로가기](https://wanted-codestates-project-2-9.vercel.app/)💡
-
 ## 사용 스택
 
 <p>
@@ -14,7 +12,7 @@
   <img src="https://img.shields.io/badge/react--router--dom-CA4245?style=for-the-badge&logo=React-Router&logoColor=white" />
 </p>
 
-## 요구 사항 ([참조 링크](https://balaan.co.kr/m2/main/contents.php))
+## 요구 사항
 고객이 리뷰를 등록하고 확인할 수 있는 기능을 구현합니다.
   - 리뷰 등록 페이지: 리뷰를 등록하는 페이지
     - [x] 리뷰 제목과 내용, 이미지 선택, 평점(별점 5점 만 점)을 포함해서 리뷰를 등록합니다.
